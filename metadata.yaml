@@ -1,0 +1,38 @@
+_repo: Some-Haunted-Houses-of-England-Wales_51568
+_version: 0.0.1
+alternative_title: Some Haunted Houses of England and Wales
+creator:
+  author:
+    agent_name: O'Donnell, Elliott
+    alias: O'Donnell, Elliot
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '5469'
+    url: http://www.gutenberg.org/2009/agents/5469
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_O%27Donnell
+description: ''
+gutenberg_issued: '2016-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts -- Wales'
+- !lcc 'BF'
+- !lcsh 'Haunted houses -- Wales'
+- !lcsh 'Ghosts -- England'
+- !lcsh 'Haunted houses -- England'
+- GITenberg
+tableOfContents: The Green Bank Hotel, Bardsley -- No. — Southgate Street, Bristol
+  -- Mulready Villa, near Basingstoke -- No. — Park Street, Bath -- The Minery, Devon
+  -- Thurlow Hall, near Exeter -- The Guilsborough ghost -- Wolsey Abbey, near Gloucester
+  -- No. XYZ Euston Road, London -- Panmaur Hollow, Merioneth -- Catchfield Hall,
+  the Midlands -- Burle Farm, North Devon -- Carne House, near Northampton -- Harley
+  House, Portishead -- The Way Meadow, Somerset -- No. — Hackham House, Swindon --
+  Appendix to above, the screaming woman of Tehiddy -- Park House, Westminster --
+  Glossary.
+title: Some Haunted Houses of England & Wales.
+url: http://www.gutenberg.org/ebooks/51568
